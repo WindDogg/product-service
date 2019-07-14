@@ -1,4 +1,4 @@
-package cn.how2j.springboot.pojo;
+package cn.xue.springboot.pojo;
 
 public class Product {
 

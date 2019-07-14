@@ -1,11 +1,10 @@
-package cn.how2j.springboot.service;
+package cn.xue.springboot.service;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import cn.xue.springboot.pojo.Product;
 import org.springframework.stereotype.Service;
-
-import cn.how2j.springboot.pojo.Product;
 
 @Service
 public class ProductService {
